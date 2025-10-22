@@ -9,7 +9,16 @@
       "Bash(npx tailwindcss:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Nicesly React application\n\n- AI-powered letter writing service\n- BankID integration for Swedish users\n- Multi-tier pricing system\n- Responsive design with Tailwind CSS\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Nicesly React application\n\n- AI-powered letter writing service\n- BankID integration for Swedish users\n- Multi-tier pricing system\n- Responsive design with Tailwind CSS\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(gh --version:*)",
+      "Bash(gh repo create:*)",
+      "Bash(vercel --version:*)",
+      "Bash(vercel:*)",
+      "Bash(pkill:*)",
+      "Bash(npm run build:*)",
+      "Bash(curl:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)"
     ],
     "deny": [],
     "ask": []
